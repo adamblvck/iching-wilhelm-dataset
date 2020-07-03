@@ -34,12 +34,11 @@ The json-file ([click here for download](https://github.com/adamblvck/iching-wil
 ~~~
 
 
-## Lincense & Usage
+## License & Usage
 
 The I-Ching Wilhelm Translation is in public domain as of 2020, making this text freely available to all.
 
-If you want to use `iching_willhelm_translation.json`, please do so at your own risk.
-
+If you want to use `iching_willhelm_translation.json`, please do so at your own risk, and take a peak at the MIT license.
 
 *Adam Blvck*
 
