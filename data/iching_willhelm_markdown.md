@@ -1,40 +1,12 @@
 # Overview
 
 ## Data Sources
-- Full I Ching Text by Richard Wilhelm from http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html
 
+- Full I Ching Text by Richard Wilhelm from http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html
 - Foreword by Carl Gustav Jung from https://www.iging.com/intro/foreword.htm
 
 ## About Richard Wilhelm 卫礼贤
 [https://schoolofwisdom.com/about/richard-wilhelm-one-of-the-school-of-wisdoms-most-notable-teachers/](https://schoolofwisdom.com/about/richard-wilhelm-one-of-the-school-of-wisdoms-most-notable-teachers/)
-
-![wilhelm](./img/wilhelm.jpg)
-
-## My Copy of the Book
-
-![My Copy of the Book](./img/my-copy.jpg)
-
-## Foreword by Carl Gustav Jung 荣格
-
-[Link to the Forward](./iching-foreword.html)
-
-## Trigrams
-
-![Trigrams](./img/trigrams.png)
-
-Source: wikipedia.com
-
-## Sequence Chart
-
-![Hexagram Sequence Chart](./img/sequence-chart.jpg)
-
-Source: inthefamilyway.org
-
-## Chinese Pinyin Pronunciation
-
-![Chinese Pronunciation](./img/pinyin.jpg)
-
-Source: baidu.com
 
 ## How To Consult the I Ching Oracle
 [https://www.youtube.com/watch?v=KgXaIYpAEHQ](https://www.youtube.com/watch?v=KgXaIYpAEHQ)
@@ -51,11 +23,6 @@ Source: zhihu.com
 - [Overview](#overview)
 	- [Data Sources](#data-sources)
 	- [About Richard Wilhelm 卫礼贤](#about-richard-wilhelm-卫礼贤)
-	- [My Copy of the Book](#my-copy-of-the-book)
-	- [Foreword by Carl Gustav Jung 荣格](#foreword-by-carl-gustav-jung-荣格)
-	- [Trigrams](#trigrams)
-	- [Sequence Chart](#sequence-chart)
-	- [Chinese Pinyin Pronunciation](#chinese-pinyin-pronunciation)
 	- [How To Consult the I Ching Oracle](#how-to-consult-the-i-ching-oracle)
 - [64 Hexagrams](#64-hexagrams)
 	- [Index](#index)
