@@ -425,6 +425,7 @@ A weak, inexperienced man, struggling to rise, easily loses his own individualit
 Six in the fourth place means:
 
 Entangled folly bring humiliation.
+
 For youthful folly it is the most hopeless thing to entangle itself in empty imaginings. The more obstinately it clings to such unreal fantasies, the more certainly will humiliation overtake it. Often the teacher, when confronted with such entangled folly, has no other course but to leave the fool to himself for a time, not sparing him the humiliation that results. This is frequently the only means of rescue.
 Six in the fifth place means:
 
@@ -726,6 +727,7 @@ Six in the second place means:
 
 Hold to him inwardly.
 Perseverance brings good fortune.
+
 If a person responds perseveringly and in the right way to the behests from above that summon him to action, his relations with others are intrinsic and he does not lose himself. But if a man seeks association with others as if he were an obsequious office hunter, he throws himself away. He does not follow the path of the superior man, who never loses his dignity.
 
 Six in the third place means:
@@ -747,12 +749,14 @@ In the hunt the king uses beaters on three sides only
 And forgoes game that runs off in front.
 The citizens need no warning.
 Good fortune.
+
 In the royal hunts of ancient China it was customary to drive up the game from three sides, but on the fourth the animals had a chance to run off. If they failed to do this they had to pass through a gate behind which the king stood ready to shoot. Only animals that entered here were shot; those that ran off in front were permitted to escape. This custom accorded with a kingly attitude; the royal hunter did not wish to turn the chase into a slaughter, but held that the kill should consist only of those animals which had so to speak voluntarily exposed themselves. There is depicted here a ruler, or influential man, to whom people are attracted. Those who come to him he accepts, those who do not come are allowed to go their own way. He invited none, flatters none--all come of their own free will. In this way there develops a voluntary dependence among those who hold him. They do not have to be constantly on their guard but may express their opinions openly. Police measures are not necessary, and they cleave to their ruler of their own volition. The same principle of freedom is valid for life in general. We should not woo favor from people. If a man cultivates within himself the purity and the strength that are necessary for one who is the center of a fellowship, those who are meant for him come of their own accord.
 
 Six at the top means:
 
 He finds no head for holding together.
 Misfortune.
+
 The head is the beginning. If the beginning is not right, there is no hope of a right ending. If we have missed the right moment for union and go on hesitating to give complete and full devotion, we shall regret the error when it is too late.
 
 ## 9. Hsiao Ch'u / The Taming Power of the Small
@@ -801,12 +805,14 @@ Nine in the third place means:
 
 The spokes burst out of the wagon wheels.
 Man and wife roll their eyes.
+
 Here an attempt is made to press forward forcibly, in the consciousness that the obstructing power is slight. But since, under the circumstances, power actually lies with the weak, this sudden offensive is doomed to failure. External conditions hinder the advance, just as loss of the wheel spokes stops the progress of a wagon. We do not yet heed this hint form fate, hence there are annoying arguments like those of a married couple. Naturally this is not a favorable state of thing, for though the situation may enable the weaker side to hold its ground, the difficulties are too numerous to permit of a happy result. In consequence even the strong man cannot so use his power as to exert the right influence on those around him. He experiences a rebuff where he expected an easy victory, and he thus compromises his dignity.
 
 Six in the fourth place means:
 
 If you are sincere, blood vanishes and fear gives way.
 No blame.
+
 If one is in the difficult and responsible position of counselor to a powerful man, on should restrain him in such a way that the threat of actual bloodshed may arise. Nonetheless, the power of disinterested truth is greater than all theses obstacles. It carries such weight that the end is achieved, and all danger of bloodshed and all fear disappear.
 
 Nine in the fifth place means:
