@@ -514,6 +514,7 @@ Six at the top means:
 One falls into the pit.
 Three uninvited guests arrive.
 Honor them, and in the end there will be good fortune.
+
 The waiting is over; the danger can no longer be averted. One falls into the pit and must yield to the inevitable. Everything seems to have been in vain. But precisely in this extremity things take an unforeseen turn. Without a move on one's own part, there is outside intervention. At first one cannot be sure of its meaning: is it rescue or is it destruction? A person in this situation must keep his mind alert and not withdraw into himself with a sulky gesture of refusal, but must greet the new turn with respect. Thus he ultimately escapes the danger, and all goes well. Even happy turns of fortune often come in a form that at first seems strange to us.
 
 ## 6. Sung / Conflict
@@ -1485,7 +1486,7 @@ When the wind blow s slow on the mountain, it is thrown back and spoils the vege
 
 THE LINES
 
-Six in the beginning means:
+Six at the beginning means:
 
 Setting right what has been spoiled by the father.
 If there is a son,
@@ -1587,7 +1588,7 @@ Complete approach.
 No blame.
 While the three lower lines indicate rise to power and influence, the three upper lines show the attitude of persons in higher position toward those of lower rank for whom they procure influence. Here is shown the open-minded approach of a person of high rank to a man of ability whom he draws in to his own circle, regardless of class prejudice. This is very favorable.
 
-Six in the fifth place means:
+Six in the fifth place means
 
 Wise approach.
 This is right for a great prince.
@@ -1663,6 +1664,15 @@ Contemplation of the light of the kingdom.
 It furthers one to exert influence as the guest of a king.
 
 This describes a man who understands the secrets by which a kingdom can be made to flourish. Such a man must be given an authoritative position, in which he can exert influence. He should be, so to speak, a guest-that is, he should be honored and act independently, and should not be used as a tool.
+
+Nine in the fifth place means:
+
+Contemplation of my life.
+The superior man is without blame.
+
+A man in an authoritative position to whom others look up must always be ready for self–examination.  The right sort of self–examination, however, consists not in idle brooding over oneself but in examining the effects one produces.  Only when these effects are good, and when one’s influence on others is good, will the contemplation of one’s own life bring the satisfaction of knowing oneself to be free of mistakes.
+
+
 Nine at the top means:
 
 Contemplation of his life.
@@ -4227,7 +4237,7 @@ Continued perseverance furthers.
 
 Keeping the toes still means halting before one has even begun to move. The beginning is the time of few mistakes. At that time one is still in harmony with primal innocence. Not yet influenced by obscuring interests and desires, one sees things intuitively as they really are. A man who halts at the beginning, so long as he has not yet abandoned the truth, finds the right way. But persisting firmness is needed to keep one from drifting irresolutely.
 
-Six in e second place means:
+Six in the second place means:
 
 Keeping his calves still.
 He cannot rescue him whom he follows.
