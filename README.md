@@ -1,8 +1,10 @@
 # iching-wilhelm-dataset
 
-Hey, in this repo you'll find a JSON/CSV containing the Wilhelm Translation of the I-Ching (~400 kB size). The [I-Ching](https://en.wikipedia.org/wiki/I_Ching) is one of the most fascinating, mystical text alongside other Sacred Texts, whose most popular English translation, published in 1950, has entered the public domain in 2020. This I-Ching translation has been made available in JSON/CSV for easy use in websites, servers, apps, or perhaps NLP/Data Science endevours.
+Hey, in this repo you'll find a JSON/CSV containing the Wilhelm Translation of the I-Ching (~400 kB size).
 
-The json-file ([click here for download](./data/iching_wilhelm_translation.json)) contains 64 objects, each corresponding to the 64 Hexagrams. There's also a (csv-file available here)[./data/iching_wilhelm_translation.csv] with the same data. A full markdown version of the translation can be [found here](./data/iching_willhelm_markdown.md).
+The [I-Ching](https://en.wikipedia.org/wiki/I_Ching) is one of the most fascinating, mystical text alongside other Sacred Texts, whose most popular English translation, published in 1950, has entered the public domain in 2020. This I-Ching translation has been made available in JSON/CSV for easy use in websites, servers, apps, or perhaps NLP/Data Science endevours.
+
+The `JSON` ([click here for download](./data/iching_wilhelm_translation.json)) contains 64 objects, each corresponding to the 64 Hexagrams. There's also a (csv-file available here)[./data/iching_wilhelm_translation.csv] with the same data. A full markdown version of the translation can be [found here](./data/iching_willhelm_markdown.md).
 
 The hexagram objects in the `JSON` contain all sorts of goodies, including the binary notation of the hexagram, it's traditional symbolism, but also the wilhem translations of the hexagram.
 
