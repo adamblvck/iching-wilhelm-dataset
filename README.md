@@ -2,14 +2,14 @@
 
 Hey, in this repo you'll find a JSON/CSV containing the Wilhelm Translation of the I-Ching (394 kB size).
 
-The json-file ([click here for download](https://github.com/adamblvck/iching-wilhelm-dataset/blob/master/data/iching_wilhelm_translation.json)) contains 64 objects, each corresponding to the 64 Hexagrams.
+The json-file ([click here for download](./data/iching_wilhelm_translation.json)) contains 64 objects, each corresponding to the 64 Hexagrams. There's also a (csv-file available here)[./data/iching_wilhelm_translation.csv] with the same data.
 
 The hexagram object contains all sorts of goodies, including the binary notation of the hexagram, it's traditional symbolism, but also the wilhem translations of the hexagram.
 
-The wilhem translations are stored beneath 5 keys:
+The wilhem translations are stored at 6 keys:
 
 - `wilhelm_above`: keywords for the upper trigram of the hexagram.
-- `wilhelm_below`L keywords for the lower trigram of the hexagram.
+- `wilhelm_below`: keywords for the lower trigram of the hexagram.
 - `wilhelm_symbolic`: English symbolic explanation of the hexagram (albeit sometimes wtf... for real)
 - `wilhelm_judgment`: The "Law", if the Hexagram would be judging you, or the world, this would be the text that represents it. Contains `text` and `comments` part. The `text` part contains the traditional poen-like description, the `comments` contain Wilhelm's comments on this text.
 - `wilhelm_image`: The "Image". If the Hexagram would be visualized, this would the text to describe it. Same as judgment, contains `text` with poem-like decription, and a `comments` part where Wilhelm gives his 2 cent on the matter.
