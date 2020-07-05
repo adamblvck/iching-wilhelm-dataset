@@ -2052,6 +2052,7 @@ Nine in the fourth place means:
 
 He who can be persevering
 Remains without blame.
+
 We cannot lose what really belongs to us, even if we throw it away. Therefore we need have no anxiety. All that need concern us is that we should remain true to our own natures and not listen to others.
 Nine in the fifth place means:
 
@@ -2289,6 +2290,7 @@ Nine in the third place means:
 
 The ridgepole sags to the breaking point.
 Misfortune.
+
 This indicates a type of man who in times of preponderance of the great insists on pushing ahead. He accepts no advice from others, and therefore they in turn are not willing to lend him support. Because of this the burden grows, until the structure of things bends or breaks. Plunging willfully ahead in times of danger only hastens the catastrophe.
 Nine in the fourth place means:
 
@@ -2586,6 +2588,7 @@ Whatever endures can be created only gradually by long-continued work and carefu
 Nine in the second place means:
 
 Remorse disappears.
+
 The situation is abnormal. A man's force of character is greater than the available material power. Thus he might be afraid of allowing himself to attempt something beyond his strength. However, since it is the time of DURATION, it is possible for him to control his inner strength and so to avoid excess. Cause for remorse then disappears.
 
 Nine in the third place means:
@@ -3747,6 +3750,7 @@ Here a strong man is presupposed. It is true that he does not fit in with his en
 Nine in the third place means:
 
 One pushes upward into an empty city.
+
 All obstructions that generally block progress fall away here. Things proceed with remarkable ease. Unhesitatingly one follows this road, in order to profit by one's success. Seen from without, everything seems to be in the best of order. However, no promise of good fortune is added. It is a question how long such unobstructed success can last. But it is wise not to yield to such misgivings, because they only inhibit one's power. Instead, the point is to profit by the propitiousness of time.
 
 Six in the fourth place means:
@@ -4173,6 +4177,7 @@ Six in the third place means:
 Shock comes and makes one distraught.
 If shock spurs to action
 One remains free of misfortune.
+
 There are three kinds of shock-the shock of heaven, which is thunder, the shock of fate, and, finally, the shock of the heart. The present hexagram refers less to inner shock than to the shock of fate. In such times of shock, presence of mind is all too easily lost: the individual overlooks all opportunities for action and mutely lets fate take its course. But if he allows the shocks of fate to induce movement within his mind, he will overcome these external blows with little effort.
 
 Nine in the fourth place means:
@@ -4602,6 +4607,7 @@ Six in the second place means:
 The wanderer comes to an inn.
 He has his property with him.
 He wins the steadfastness of a young servant.
+
 The wanderer her described is modest and reserved. He does not lose touch with his inner being, hence he finds a resting place. In the outside world he does not lose the liking of other people, hence all persons further him, so that he can acquire property. Moreover, he wins the allegiance of a faithful and trustworthy servant-a thing of inestimable value to a wanderer.
 
 Nine in the third place means:
@@ -4931,6 +4937,7 @@ Nine in the fifth place means:
 
 Sweet limitation brings good fortune.
 Going brings esteem.
+
 The limitation must be carried out in the right way if it is to be effective. If we seek to impose restrictions on others only, while evading them ourselves, these restrictions will always be resented and will provoke resistance. If, however, a man in a leading position applies the limitation first to himself, demanding little from those associated with him, and with modest means manages to achieve something, good fortune is the result. Where such an example occurs, it meets with emulation, so that whatever is undertaken must succeed.
 
 Six at the top means:
