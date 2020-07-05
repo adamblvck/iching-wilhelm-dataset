@@ -1505,6 +1505,7 @@ Nine in the second place means:
 
 Setting right what has been spoiled by the mother.
 One must not be too persevering.
+
 This refers to mistakes that as a result of weakness have brought about decay-hence the symbol, "what has been spoiled by the mother. " In setting things right in such a case, a certain gentle consideration is called for. In order not to wound, one should not attempt to proceed too drastically.
 
 Nine in the third place means:
@@ -1518,6 +1519,7 @@ Six in the fourth place means:
 
 Tolerating what has been spoiled by the father.
 In continuing one sees humiliation.
+
 This shows the situation of someone too weak to take measures against decay that has its roots in the past and is just beginning to manifest itself. It is allowed to run its course. If this continues, humiliation will result.
 
 Six in the fifth place means:
@@ -1531,6 +1533,7 @@ Nine at the top means:
 
 He does not serve kings and princes,
 Sets himself higher goals.
+
 Not every man has an obligation to mingle in the affairs of the world. There are some who are developed to such a degree that they are justified in letting the world go its own way and refusing to enter public life with a view to reforming it. But this does not imply a right to remain idle or to sit back and merely criticize. Such withdrawal is justified only when we strive to realize in ourselves the higher aims of mankind. For although the sage remains distant from the turmoil of daily life, he creates incomparable human values for the future.
 
 ## 19. Lin / Approach
@@ -1592,6 +1595,7 @@ Six in the fourth place means:
 
 Complete approach.
 No blame.
+
 While the three lower lines indicate rise to power and influence, the three upper lines show the attitude of persons in higher position toward those of lower rank for whom they procure influence. Here is shown the open-minded approach of a person of high rank to a man of ability whom he draws in to his own circle, regardless of class prejudice. This is very favorable.
 
 Six in the fifth place means
