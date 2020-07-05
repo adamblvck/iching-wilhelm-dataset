@@ -1,12 +1,12 @@
 # iching-wilhelm-dataset
 
-Hey, in this repo you'll find a JSON/CSV containing the Wilhelm Translation of the I-Ching (394 kB size).
+Hey, in this repo you'll find a JSON/CSV containing the Wilhelm Translation of the I-Ching (~400 kB size). The [I-Ching](https://en.wikipedia.org/wiki/I_Ching) is one of the most fascinating, mystical text alongside other Sacred Texts, whose most popular English translation, published in 1950, has entered the public domain in 2020. This I-Ching translation has been made available in JSON/CSV for easy use in websites, servers, apps, or perhaps NLP/Data Science endevours.
 
-The json-file ([click here for download](./data/iching_wilhelm_translation.json)) contains 64 objects, each corresponding to the 64 Hexagrams. There's also a (csv-file available here)[./data/iching_wilhelm_translation.csv] with the same data.
+The json-file ([click here for download](./data/iching_wilhelm_translation.json)) contains 64 objects, each corresponding to the 64 Hexagrams. There's also a (csv-file available here)[./data/iching_wilhelm_translation.csv] with the same data. A full markdown version of the translation can be [found here](./data/iching_willhelm_markdown.md).
 
-The hexagram object contains all sorts of goodies, including the binary notation of the hexagram, it's traditional symbolism, but also the wilhem translations of the hexagram.
+The hexagram objects in the `JSON` contain all sorts of goodies, including the binary notation of the hexagram, it's traditional symbolism, but also the wilhem translations of the hexagram.
 
-The wilhem translations are stored at 6 keys:
+The wilhem translations are stored as 6 keys:
 
 - `wilhelm_above`: keywords for the upper trigram of the hexagram.
 - `wilhelm_below`: keywords for the lower trigram of the hexagram.
@@ -83,6 +83,10 @@ The wilhem translations are stored at 6 keys:
 The I-Ching Wilhelm Translation is in public domain as of 2020, making this text freely available to all.
 
 If you want to use `iching_willhelm_translation.json`, please do so at your own risk, and take a peak at the MIT license.
+
+## Credits
+
+Markdown version of Wilhelm translation forked from https://github.com/harrywang/iching by author @harrywang.
 
 *Adam Blvck*
 
