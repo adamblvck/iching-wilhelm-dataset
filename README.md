@@ -1,5 +1,7 @@
 # iching-wilhelm-dataset
 
+![](./iching_wheel.jpg)
+
 Hey, in this repo you'll find a JSON/CSV containing the Wilhelm Translation of the I-Ching (~400 kB size).
 
 The [I-Ching](https://en.wikipedia.org/wiki/I_Ching) is one of the most fascinating, mystical text alongside other Sacred Texts, whose most popular English translation, published in 1950 by Richard Wilhelm, has entered the public domain in 2020. This I-Ching translation has been made available in JSON/CSV for easy use in websites, servers, apps, or perhaps NLP/Data Science endevours.
