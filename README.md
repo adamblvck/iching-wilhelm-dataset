@@ -4,9 +4,39 @@
 
 Hey, in this repo you'll find a JSON/CSV containing the Wilhelm Translation of the I-Ching (~400 kB size).
 
-The [I-Ching](https://en.wikipedia.org/wiki/I_Ching) is one of the most fascinating, mystical text alongside other Sacred Texts, whose most popular English translation, published in 1950 by Richard Wilhelm, has entered the public domain in 2020. This I-Ching translation has been made available in JSON/CSV for easy use in websites, servers, apps, or perhaps NLP/Data Science endevours.
+## About
 
-The `JSON` ([click here for download](./data/iching_wilhelm_translation.json)) contains 64 objects, each corresponding to the 64 Hexagrams. There's also a [csv-file available here](./data/iching_wilhelm_translation.csv) with the same data. A full markdown version of the translation can be [found here](./data/iching_willhelm_markdown.md).
+The [I-Ching](https://en.wikipedia.org/wiki/I_Ching) is one of the most fascinating and mystical text alongside other Sacred Texts, whose most popular English translation, published in 1950 by Gottfried Wilhelm Leibniz, has entered the public domain in 2020. This I-Ching translation has been made available in JSON/CSV for ease of use in websites, servers, apps, or perhaps NLP/Data Science endevours.
+
+## How to use
+
+### Standalone Usage
+
+The `JSON` ([click here for download](./data/iching_wilhelm_translation.js)) contains 64 objects, each corresponding to the 64 Hexagrams. There's also a [csv-file available here](./data/iching_wilhelm_translation.csv) with the same data. A full markdown version of the translation can be [found here](./data/iching_willhelm_markdown.md).
+
+### Integrated Usage
+
+My favorite way to use this dataset is by adding the repo as a submodule to your working repository of your current project:
+
+```
+git submodule add [<url to this repo>](https://github.com/adamblvck/iching-wilhelm-dataset.git)
+```
+
+Next, import the JSON data and use it in your code:
+
+```
+import IChingWilhelm from './iching-wilhelm-dataset/data/iching_wilhelm_translation';
+
+const App = (props) => {
+
+	// print content of first hexagram
+	console.log(IChingWilhelm['1'])
+
+	return (...)
+}
+```
+
+## Data Structure
 
 The hexagram objects in the `JSON` contain all sorts of goodies, including the binary notation of the hexagram, it's traditional symbolism, but also the wilhem translations of the hexagram.
 
