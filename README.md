@@ -19,7 +19,7 @@ The `JSON` ([click here for download](./data/iching_wilhelm_translation.js)) con
 My favorite way to use this dataset is by adding the repo as a submodule to your working repository of your current project:
 
 ```
-git submodule add [<url to this repo>](https://github.com/adamblvck/iching-wilhelm-dataset.git)
+git submodule add https://github.com/adamblvck/iching-wilhelm-dataset.git
 ```
 
 Next, import the JSON data and use it in your code:
