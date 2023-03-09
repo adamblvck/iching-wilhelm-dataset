@@ -36,6 +36,16 @@ const App = (props) => {
 }
 ```
 
+### Import into sqlite3
+
+For those that want to use the dataset as a SQLite3 database:
+
+```
+.mode csv
+.separator ';'
+.import path/to/iching-wilhelm-dataset/data/iching_wilhelm_translation.csv iching
+```
+
 ## Data Structure
 
 The hexagram objects in the `JSON` contain all sorts of goodies, including the binary notation of the hexagram, it's traditional symbolism, but also the wilhem translations of the hexagram.
