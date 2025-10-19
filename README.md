@@ -6,7 +6,7 @@ Hey, in this repo you'll find a JSON/CSV containing the Wilhelm Translation of t
 
 ## About
 
-The [I-Ching](https://en.wikipedia.org/wiki/I_Ching) is one of the most fascinating and mystical text alongside other Sacred Texts, whose most popular English translation, published in 1950 by Gottfried Wilhelm Leibniz, has entered the public domain in 2020. This I-Ching translation has been made available in JSON/CSV for ease of use in websites, servers, apps, or perhaps NLP/Data Science endevours.
+The [I-Ching](https://en.wikipedia.org/wiki/I_Ching) is one of the most fascinating and mystical text alongside other Sacred Texts,  The most widely known version in the English-speaking world is the Richard Wilhelm's translation of the I Ching (or Book of Changes), translation from the German by Cary F. Baynes, which was first published in English in 1950. This edition which is often referred to as the Wilhelm/Baynes translation , has entered the public domain in 2020. This I-Ching translation has been made available in JSON/CSV for ease of use in websites, servers, apps, or perhaps NLP/Data Science endevours.
 
 ## How to use
 
